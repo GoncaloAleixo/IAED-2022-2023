@@ -1,0 +1,8 @@
+c: no such line.
+p1: no such stop.
+p2: no such stop.
+negative cost or duration.
+negative cost or duration.
+c p1 p2 2 4.00 5.00
+p1:   0.400000000000   2.400000000000 1
+p2:   0.300000000000   2.100000000000 1
